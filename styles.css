@@ -1,6 +1,6 @@
 
 body {
-	font-family: Arial, sans-serif;
+	font-family: 'Roboto', 'sans-serif';
 	font-size: 16px;
 	line-height: 1.5;
 	margin: 0;
@@ -45,6 +45,7 @@ header {
 }
 
 .header-right p {
+	font-size: 15px;
     margin-bottom: 0px;
 }
 
@@ -100,7 +101,8 @@ section:not(:last-child) {
 	}
 }
 
-/**body {
+/** Esto es una prueba de otro formato
+body {
 	margin: 0;
 	padding: 0;
 }
